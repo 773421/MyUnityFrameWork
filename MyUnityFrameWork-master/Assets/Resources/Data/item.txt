@@ -1,0 +1,9 @@
+id	ItemName	Cost
+type	String	Int
+note		
+default	NaNa	0
+2	Knife	50
+1	Sword	100
+3	Shield	200
+4	Armour	300
+5	Shoe	200
